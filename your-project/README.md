@@ -3,7 +3,7 @@
 # Real Estate Amsterdam Analysis
 *Aline D'Intino, Niharika Chawla, Rianne Rendering*
 
-*Data Analytics, Amsterdam, August 2020*
+*Data Analytics, Amsterdam August 22nd*
 
 ## Content
 - [Project Description](#project-description)
