@@ -16,28 +16,42 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+We have chosen Real Estate (rental) because we wanted to understand what influences the rental prices in Amsterdam.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+What drives Real Estate rental price in Amsterdam? Initial assumption: Rental prices varies according to neighborhood.
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+We have scrape the data from Pararius website.
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+SQL database was created from the CSV files generated from scraping (ERD image included in the presentantion).
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Researched about the topic.
+Brainstormed insightful questions related to the topic.
+Searched and explored data (web scraping).
+Created a Kanban Board (Trello).
+Cloned remote repository in GitHub.
+Created gitignore file.
+Updated README.md file.
+Built a SQL database.
+Performed analysis in Python.
+Prepared presentation (Google Slides).
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+We have organized our work by using a Trello Kanban Board.
 
-What does your repository look like? Explain your folder and file structure.
+This repository has the following folders:
+
+Code (.ipynb files with all the code used in the analysis).
+Data (to be used locally).
+README.md file with the project description.
+gitignore file.
 
 ## Links
 Include relevant links (that point to google drive or data sources) to your repository, slides, data, database, ERD, and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/alinedintino/Project_2_Amsterdam_dataptams2020/tree/master/your-project)  
+[Slides](https://docs.google.com/presentation/d/1pxE3woI_YALmHr78-98CF4s2Unx5X-abqRGOFCmpYLg/edit?usp=sharing)  
+[Trello](https://trello.com/b/nxstvWZY/project-2-analysis-real-estate-amsterdam)  
