@@ -1,0 +1,348 @@
+,house_price_utrecht,rental_agency_utrecht,postcode_utrecht,bedrooms_utrecht,surface_utrecht
+0,2750,Matton Residence,3566MJ,4,151
+1,800,Prevenda,3582VA,2,30
+2,1395,Stadsdaemes onroerend goed ,3522XR,3,64
+3,1000,Stienstra,3544KL,3,82
+4,1725,StartHousing,3531WB,3,83
+5,885,4-Freedom | Vastgoedbeheer,3572AN,1,25
+6,969,4-Freedom | Vastgoedbeheer,3581CB,2,28
+7,750,VGW Housing,3531CL,2,20
+8,750,VGW Housing,3531CL,2,20
+9,1195,VGW Housing,3531CL,3,40
+10,925,Rotsvast Utrecht,3572BD,2,45
+11,850,DdeG Vastgoed bv,3512TJ,2,22
+12,935,Rotsvast Utrecht,3572XT,2,33
+13,875,EU-Makelaardij,3532HH,2,20
+14,1250,Spot Makelaardij,3523CP,3,59
+15,1525,Ros Verhuurmakelaar,3512GX,3,80
+16,1745,123Wonen Utrecht,3513DJ,3,91
+17,970,Van Der Huizen,3512AJ,2,42
+18,1495,StartHousing,3561EA,3,74
+19,1125,Compass Housing Amsterdam,3511AN,2,45
+20,1095,EU-Makelaardij,3572TK,2,35
+21,1100,Rotsvast Utrecht,3573SB,2,64
+22,1050,Heimstaden,3527KN,3,78
+23,520,Camelot Vastgoedbeheer BV,3584SR,1,18
+24,1325,Your-House,3554VE,3,98
+25,1395,Your-House,3512GX,3,66
+26,995,Makelaardij Stek,3554VA,2,40
+27,1675,Alberts & Muus Wonen,3581CG,2,65
+28,1350,Rotsvast Utrecht,3512CS,2,57
+29,1500,Rotsvast Utrecht,3511NN,2,70
+30,1150,Your-House,3514TV,2,50
+31,795,Your-House,3531VL,2,30
+32,1195,Your-House,3511GZ,2,50
+33,695,Your-House,3514CS,2,28
+34,1495,Donné Vastgoed,3511KG,2,63
+35,1625,LIV Residential,3573PG,4,90
+36,1650,Alberts & Muus Wonen,3511HV,2,80
+37,1175,VGW Housing,3515AW,2,60
+38,910,Rotsvast Utrecht,3521TX,2,30
+39,1675,Rotsvast Utrecht,3581EP,3,80
+40,850,NH Smeding Holding BV,3512TL,1,35
+41,850,Domvast,3527CK,2,31
+42,1950,Matton Residence,3514EX,3,100
+43,855,Van Der Huizen,3511ZH,2,35
+44,1595,VGW Housing,3582BN,3,75
+45,1150,VGW Housing,3572ZN,2,50
+46,1095,VGW Housing,3583GP,3,60
+47,895,VGW Housing,3582PZ,2,28
+48,865,VGW Housing,3582CH,2,22
+49,1295,VGW Housing,3512TP,2,40
+50,1250,VGW Housing,3522AE,3,60
+51,1500,Covers & Jonker Makelaars BV,3512KC,2,58
+52,1275,Ros Verhuurmakelaar,3527GB,4,122
+53,1975,IM Home Rentals,3526TX,4,99
+54,1650,ViaDaan,3572VC,3,85
+55,1695,B&S Rental Service,3511NK,3,90
+56,850,Domvast,3527CK,2,38
+57,1495,Interhouse verhuurmakelaars Utrecht,3571NH,3,89
+58,1225,Domica Utrecht,3526WT,2,46
+59,1375,Domica Utrecht,3582AG,2,75
+60,1350,123Wonen Utrecht,3561HD,4,75
+61,1350,123Wonen Utrecht,3581MH,2,50
+62,1225,Quup Vastgoed,3513EW,2,45
+63,1205,Quup Vastgoed,3513EW,2,44
+64,1225,Quup Vastgoed,3513EW,2,44
+65,724,StartHousing,3555VZ,2,28
+66,1375,Covers & Jonker Makelaars BV,3511BZ,2,47
+67,1950,Covers & Jonker Makelaars BV,3512LS,3,95
+68,2495,VGW Housing,3514BB,5,120
+69,1395,Lemoo,3531JB,5,85
+70,1350,Lemoo,3581SZ,4,85
+71,1200,Lemoo,3581SZ,2,45
+72,1100,Hometown,3553HG,3,50
+73,1350,B&S Rental Service,3514VJ,2,45
+74,1700,Rotsvast Utrecht,3511BD,3,87
+75,1375,Rotsvast Utrecht,3513EX,2,52
+76,1375,Rotsvast Utrecht,3513EX,2,52
+77,1200,Rotsvast Utrecht,3511GN,2,70
+78,1100,Hometown,3511LX,2,40
+79,925,Your-House,3522HD,2,40
+80,1450,Lexis Real Estate,3512VP,2,60
+81,940,Rotsvast Utrecht,3581GK,2,31
+82,1175,Rotsvast Utrecht,3572AL,2,48
+83,1275,Hometown,3514AP,2,65
+84,1050,Your-House,3514TV,2,35
+85,1850,Your-House,3531EX,5,115
+86,1200,Your-House,3512GB,2,40
+87,1450,Covers & Jonker Makelaars BV,3521DE,2,64
+88,1850,Compass Housing Amsterdam,3511AN,3,100
+89,2970,Fransen Vastgoed,3543CH,5,137
+90,1650,DEHONvastgoed,3571PK,3,94
+91,1375,Dak Woningbeleggingen,3562XA,4,94
+92,1350,Alberts & Muus Wonen,3512JT,2,50
+93,1295,VGW Housing,3511VE,2,40
+94,800,Lemoo,3531JB,1,22
+95,850,Borgondo Vastgoedmanagement BV,3523CL,1,28
+96,1800,Rotsvast Utrecht,3512TE,2,79
+97,1750,DdeG Vastgoed bv,3511ZL,3,40
+98,1250,Domvast,3571JS,2,30
+99,1600,Rotsvast Utrecht,3512ED,3,68
+100,1350,Makelaardij Stek,3532HT,2,65
+101,1695,Interhouse verhuurmakelaars Utrecht,3522BD,3,92
+102,1595,EHR Utrecht,3541CE,3,80
+103,1900,EHR Utrecht,3511NN,2,150
+104,1695,Covers & Jonker Makelaars BV,3522AD,4,106
+105,1267,RNC Wonen,3514EC,2,50
+106,2250,Rotsvast Utrecht,3532HX,3,104
+107,1250,Vastgoedtehuur.nu,3511LZ,1,45
+108,1495,Interhouse verhuurmakelaars Utrecht,3543GT,3,87
+109,1495,Interhouse verhuurmakelaars Utrecht,3543GE,3,78
+110,1200,Domica Utrecht,3555GH,2,50
+111,1600,Alberts & Muus Wonen,3581PX,2,45
+112,1335,HouseHunting Utrecht,3511KB,2,65
+113,1250,HouseHunting Utrecht,3526SJ,3,73
+114,2250,B&S Rental Service,3515EE,6,128
+115,1450,HouseHunting Utrecht,3582HM,4,90
+116,1495,VGW Housing,3511PE,2,70
+117,1995,VVZ - Vastgoed Verhuur Zwolle,3512TD,2,120
+118,1400,ViaDaan,3514AN,2,70
+119,1250,University Housing,3572BC,1,22
+120,1400,Rocca Beheer,3583EB,2,42
+121,1200,Rental Services B.V.,3551CM,2,50
+122,650,University Housing,3552AC,1,14
+123,650,University Housing,3552AC,1,16
+124,650,University Housing,3527JX,1,16
+125,1200,University Housing,3512AP,1,30
+126,800,University Housing,3531AP,1,20
+127,950,University Housing,3531AP,1,20
+128,650,University Housing,3552AC,1,16
+129,1100,University Housing,3531VC,1,35
+130,1350,University Housing,3531VC,1,50
+131,1100,University Housing,3512AP,1,28
+132,725,University Housing,3552AC,1,19
+133,1765,Domica Utrecht,3514AG,2,70
+134,1300,Covers & Jonker Makelaars BV,3512KC,2,44
+135,1495,J&G Vastgoed B.V.,3541DS,2,75
+136,1250,University Housing,3572CD,1,25
+137,825,EU-Makelaardij,3512AR,2,18
+138,2750,City Estate,3573SE,5,130
+139,747,Domvast,3553BS,2,26
+140,850,Heimstaden,3526WS,2,28
+141,875,Heimstaden,3526WR,2,38
+142,1150,HouseHunting Utrecht,3553VN,2,55
+143,1350,Home to rent,3512NA,2,45
+144,950,Hometown,3514AP,1,28
+145,1250,University Housing,3572BC,1,25
+146,1300,University Housing,3511NJ,1,45
+147,1250,University Housing,3572CD,1,25
+148,1100,University Housing,3512AP,1,28
+149,835,Home by Theresa,3511HE,1,22
+150,1595,Stadsdaemes onroerend goed ,3562JZ,5,150
+151,1295,StartHousing,3527BM,3,70
+152,1050,4-Freedom | Vastgoedbeheer,3531JN,2,30
+153,2100,Internationals Housing,3511BD,3,85
+154,1950,Internationals Housing,3554HJ,5,105
+155,1225,Domica Utrecht,3526WT,2,47
+156,1995,Domica Utrecht,3512PM,3,130
+157,1400,Lemoo,3554VC,4,65
+158,1695,Interhouse verhuurmakelaars Utrecht,3581GA,3,140
+159,1295,StartHousing,3533AJ,2,60
+160,1705,NederWoon Verhuurmakelaars Utrecht,3571KE,4,114
+161,2100,Rotsvast Utrecht,3511AH,3,113
+162,1195,Domica Utrecht,3553VD,2,65
+163,625,Compass Housing Amsterdam,3555HE,2,30
+164,1175,HouseHunting Utrecht,3572XH,2,55
+165,460,Vizier Makelaardij og,3512ED,1,12
+166,1750,B&S Rental Service,3511HV,3,84
+167,1350,Makelaardij Stek,3581GC,2,45
+168,1800,StartHousing,3511ZG,3,95
+169,1375,Covers & Jonker Makelaars BV,3511MZ,3,71
+170,895,EU-Makelaardij,3527VZ,2,18
+171,3350,B&S Rental Service,3511LL,4,150
+172,1075,Heimstaden,3526WP,2,58
+173,1250,Guntenaar Wonen,3551SW,2,75
+174,925,Heimstaden,3527HH,2,74
+175,950,Heimstaden,3527HJ,3,74
+176,3250,VGW Housing,3573SK,6,200
+177,1950,123Wonen Utrecht,3514TG,4,110
+178,2500,123Wonen Utrecht,3513DH,4,140
+179,1550,VGW Housing,3522HB,3,85
+180,1340,Amstel Housing Utrecht,3533AS,2,66
+181,825,Lemoo,3564ET,2,40
+182,895,Lemoo,3551CM,2,30
+183,1500,StartHousing,3553BA,3,100
+184,3300,Covers & Jonker Makelaars BV,3512LS,3,130
+185,1560,ViaDaan,3511LX,3,75
+186,845,Vizier Makelaardij og,3512TW,2,30
+187,3250,B&S Rental Service,3582AB,3,156
+188,1495,Your-House,3511BW,2,50
+189,1250,HouseHunting Utrecht,3581LN,2,40
+190,2250,B&S Rental Service,3585LC,5,140
+191,680,Vizier Makelaardij og,3581EB,2,23
+192,800,University Housing,3564XK,1,17
+193,1050,Alliances Makelaardij,3531BW,2,28
+194,1850,Rotsvast Utrecht,3511JD,3,123
+195,675,Home by Theresa,3551CT,1,16
+196,655,Your-House,3514HL,1,19
+197,1175,Your-House,3551BH,3,40
+198,3800,Molenbeek Makelaars Utrecht,3581CR,4,191
+199,1650,123Wonen Utrecht,3544LE,4,105
+200,1237,RNC Wonen,3572CB,2,60
+201,1150,B&S Rental Service,3514CN,2,70
+202,1650,Hometown,3514AP,3,80
+203,1650,HouseHunting Utrecht,3515XW,4,93
+204,1595,Interhouse verhuurmakelaars Utrecht,3572RM,2,55
+205,1245,StartHousing,3523GR,4,76
+206,1595,VGW Housing,3511LZ,2,60
+207,1195,B&S Rental Service,3581CC,2,40
+208,1395,Interhouse verhuurmakelaars Utrecht,3513CS,3,68
+209,1895,B&S Rental Service,3552XE,4,115
+210,1950,Spot Makelaardij,3514AR,3,75
+211,1705,NederWoon Verhuurmakelaars Utrecht,3571KE,4,114
+212,1850,Rotsvast Utrecht,3512NZ,3,100
+213,1595,Rotsvast Utrecht,3512PS,2,60
+214,2250,Gevaert Makelaars,3512KJ,2,125
+215,1500,Domica Utrecht,3581XC,3,90
+216,1750,Rotsvast Utrecht,3532HX,2,66
+217,1950,B&S Rental Service,3572VD,5,105
+218,1225,B&S Rental Service,3582EB,2,55
+219,955,Vizier Makelaardij og,3512KA,2,37
+220,1400,Home by Theresa,3527JJ,4,115
+221,1250,Interhouse verhuurmakelaars Utrecht,3526WX,2,50
+222,775,Van Der Huizen,3581RJ,2,30
+223,2500,Stadsdaemes onroerend goed ,3521VV,5,150
+224,1825,Your-House,3512ET,2,76
+225,595,Domica Utrecht,3531ES,1,24
+226,695,Lemoo,3564ET,2,26
+227,1950,Your-House,3512GR,3,110
+228,1395,Tweelwonen.nl Utrecht,3512VP,2,55
+229,2500,Rotsvast Utrecht,3532HX,3,104
+230,1195,Rotsvast Utrecht,3581GK,2,57
+231,1795,Interhouse verhuurmakelaars Utrecht,3541DK,3,90
+232,1750,Interhouse verhuurmakelaars Utrecht,3523KA,4,126
+233,1195,Stadsdaemes onroerend goed ,3555GH,2,55
+234,1195,VGW Housing,3512PL,2,45
+235,850,Lemoo,3527LC,2,50
+236,1500,My Housing,3532HX,2,67
+237,1050,Your-House,3511BW,2,29
+238,995,123Wonen Utrecht,3572BN,1,41
+239,1475,NederWoon Verhuurmakelaars Utrecht,3551SV,2,77
+240,1795,B&S Rental Service,3511GV,3,100
+241,1350,B&S Rental Service,3514BH,2,51
+242,1250,B&S Rental Service,3511HK,2,60
+243,735,Camelot Vastgoedbeheer BV,3543KA,1,23
+244,1500,EHR Utrecht,3544BT,3,86
+245,1600,StartHousing,3573BH,5,125
+246,1850,VGW Housing,3513AH,3,115
+247,1795,VGW Housing,3513AH,3,110
+248,1500,Rotsvast Utrecht,3532HX,2,66
+249,1195,VGW Housing,3511LZ,2,35
+250,1495,Ros Verhuurmakelaar,3512AD,2,80
+251,995,HouseHunting Utrecht,3512LE,2,74
+252,75,Domica Utrecht,3523BH,2,8
+253,2850,Vizier Makelaardij og,3541CX,4,126
+254,1538,My Housing,3532HX,2,67
+255,1100,Rotsvast Utrecht,3526WX,2,49
+256,650,RandstadHousing,3554XP,1,18
+257,1425,RNC Wonen,3532HN,3,70
+258,1705,NederWoon Verhuurmakelaars Utrecht,3571KE,4,114
+259,1350,Amstel Housing Utrecht,3512EE,2,75
+260,775,Van Der Huizen,3572CD,2,27
+261,1650,B&S Rental Service,3512BD,3,55
+262,1250,HouseHunting Utrecht,3512VP,2,55
+263,900,Van Der Huizen,3562HA,1,55
+264,1895,B&S Rental Service,3514CN,3,80
+265,1450,LeukWonenInUtrecht,3572EW,3,75
+266,420,Camelot Vastgoedbeheer BV,3584CL,1,22
+267,1250,4-Freedom | Vastgoedbeheer,3532HR,2,60
+268,1975,Covers & Jonker Makelaars BV,3521DM,3,106
+269,950,Vizier Makelaardij og,3572GG,2,32
+270,1100,Vizier Makelaardij og,3512PD,2,41
+271,2400,Interhouse verhuurmakelaars Utrecht,3514TA,4,135
+272,1245,Bridges Real Estate,3512TR,2,40
+273,1595,Domica Utrecht,3512KB,3,120
+274,861,Nido Student,3527DK,1,24
+275,846,Nido Student,3527DK,1,22
+276,795,Nido Student,3527DK,1,22
+277,837,Nido Student,3527DK,1,19
+278,1595,Interhouse verhuurmakelaars Utrecht,3551SW,3,88
+279,2500,Tweelwonen.nl Utrecht,3512HT,5,125
+280,740,Van Der Huizen,3572CD,2,25
+281,1650,VGW Housing,3511BD,4,87
+282,2750,Covers & Jonker Makelaars BV,3512LP,4,150
+283,1250,B&S Rental Service,3511KH,2,65
+284,1450,Domvast,3572RH,2,42
+285,850,DdeG Vastgoed bv,3512TJ,1,17
+286,775,NH Smeding Holding BV,3513AL,1,25
+287,1555,NederWoon Verhuurmakelaars Utrecht,3571KE,4,104
+288,1450,VGW Housing,3511KV,2,70
+289,1705,NederWoon Verhuurmakelaars Utrecht,3571KE,4,114
+290,1705,NederWoon Verhuurmakelaars Utrecht,3571KE,4,114
+291,1550,Utrecht City Apartments B.V.,3512BD,2,75
+292,1075,EU-Makelaardij,3513AH,3,50
+293,1149,Utrecht Rental Agency,3514EV,2,56
+294,2300,HouseHunting Utrecht,3572SB,5,105
+295,520,HouseHunting,3584SZ,2,18
+296,520,HouseHunting,3584SZ,2,18
+297,520,HouseHunting,3584SZ,2,18
+298,520,HouseHunting,3584SZ,2,18
+299,1765,NederWoon Verhuurmakelaars Utrecht,3571KE,4,114
+300,1550,Domica Utrecht,3583GR,2,80
+301,2705,B&S Rental Service,3581SH,3,96
+302,1875,B&S Rental Service,3572SX,3,110
+303,1300,Altijd Wonen,3526JA,3,80
+304,1750,VGW Housing,3583VV,3,80
+305,1195,Altijd Wonen,3523HX,3,75
+306,1350,Altijd Wonen,3527JZ,3,75
+307,1340,Wooove B.V.,3533JC,3,71
+308,1450,HouseHunting Utrecht,3511PH,2,60
+309,975,HouseHunting Utrecht,3511PH,2,26
+310,1300,StartHousing,3526WX,2,50
+311,2450,VGW Housing,3581SH,2,100
+312,350,Van Der Huizen,3562JV,2,20
+313,1300,Altijd Wonen,3572KN,2,60
+314,744,Altijd Wonen,3571HL,2,50
+315,1990,Covers & Jonker Makelaars BV,3512GB,2,56
+316,750,Camelot Vastgoedbeheer BV,3543KD,1,20
+317,580,Van Der Huizen,3562KX,2,19
+318,1300,IM Home Rentals,3531CG,2,50
+319,1940,Covers & Jonker Makelaars BV,3581SH,2,41
+320,1865,Covers & Jonker Makelaars BV,3581SH,2,45
+321,1250,Altijd Wonen,3533AP,3,75
+322,1320,Altijd Wonen,3532EJ,3,90
+323,1995,Tijdelijk Twee Woningen,3531EX,4,87
+324,1300,Domica Utrecht,3512KJ,2,55
+325,1865,B&S Rental Service,3581SH,2,53
+326,1940,B&S Rental Service,3581SH,2,55
+327,1950,B&S Rental Service,3512LC,2,54
+328,2530,B&S Rental Service,3581SH,3,109
+329,2150,B&S Rental Service,3521DG,3,100
+330,1295,Houserenting Company,3581TA,2,40
+331,1400,LIV Residential,3573AB,4,70
+332,2450,Home to rent,3512NA,3,140
+333,1450,VGW Housing,3527HT,3,75
+334,2750,B&S Rental Service,3572TH,4,117
+335,1850,Altijd Wonen,3511ZL,2,100
+336,1765,Domica Utrecht,3514AG,2,75
+337,1650,Altijd Wonen,3511PH,2,117
+338,1395,Altijd Wonen,3511BB,2,90
+339,1375,Altijd Wonen,3523GH,3,65
+340,1295,Altijd Wonen,3521BR,2,55
+341,1675,Altijd Wonen,3523VP,5,110
+342,1295,Altijd Wonen,3521BR,2,55
+343,1800,Tweelwonen.nl Utrecht,3572LL,2,35
+344,1500,Altijd Wonen,3511PW,3,80
+345,3100,B&S Rental Service,3511AZ,2,137
+346,2100,Tweelwonen.nl Utrecht,3572LL,2,45
